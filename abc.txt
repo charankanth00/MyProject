@@ -1,0 +1,3 @@
+here now ia m creating a text file git
+then i am by using git bash i am uploading atyo a github
+
